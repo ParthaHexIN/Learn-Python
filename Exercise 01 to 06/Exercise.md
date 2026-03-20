@@ -110,7 +110,7 @@ Print:
 
 ---
 
-## Exercise 10: Multi-line Print
+## Exercise 10: Multi-line Print 
 
 Print:
 
@@ -120,7 +120,5 @@ Age: ___
 Country: India
 ```
 
-Use:
 
-* triple quotes OR `\n`
 
