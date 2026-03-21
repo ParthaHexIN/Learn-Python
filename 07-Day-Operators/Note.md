@@ -83,13 +83,22 @@ print(not(a > 5))
 
 Used to assign values to variables.
 
-| Operator | Example  | Meaning      |
-| -------- | -------- | ------------ |
-| `=`      | `x = 5`  | Assign value |
-| `+=`     | `x += 3` | x = x + 3    |
-| `-=`     | `x -= 2` | x = x - 2    |
-| `*=`     | `x *= 2` | x = x * 2    |
-| `/=`     | `x /= 2` | x = x / 2    |
+# Assignment Operators in Python
+
+| Operator | Meaning                 | Example              |
+|----------|------------------------|----------------------|
+| =        | Assign value            | x = 5                |
+| +=       | Add and assign          | x += 3 → x = x + 3   |
+| -=       | Subtract and assign     | x -= 2 → x = x - 2   |
+| *=       | Multiply and assign     | x *= 2 → x = x * 2   |
+| /=       | Divide and assign       | x /= 2 → x = x / 2   |
+| //=      | Floor divide and assign | x //= 3 → x = x // 3 |
+| %=       | Modulus and assign      | x %= 3 → x = x % 3   |
+| **=      | Power and assign        | x **= 2 → x = x ** 2 |
+| &=       | Bitwise AND and assign  | x &= 3 → x = x & 3   |
+| ^=       | Bitwise XOR and assign  | x ^= 3 → x = x ^ 3   |
+| <<=      | Left shift and assign   | x <<= 1 → x = x << 1 |
+| >>=      | Right shift and assign  | x >>= 1 → x = x >> 1 |
 
 ### Example
 
