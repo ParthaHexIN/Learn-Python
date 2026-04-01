@@ -56,6 +56,7 @@ Hello "Partha"
 Welcome to Python
 ```
 
+
 ## Exercise 6: Simple Calculator
 
 Take 2 numbers from user and print:
@@ -65,6 +66,8 @@ Take 2 numbers from user and print:
 * product
 
 ---
+
+
 
 ## Exercise 7: Swap Variables
 
@@ -83,6 +86,7 @@ b = 5
 ```
 
 ---
+
 
 ## Exercise 8: Type Confusion Trap
 
