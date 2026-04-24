@@ -1,4 +1,6 @@
+
 day = int(input("Enter a day number (1-7): "))
+
 
 match day:
     case 1:
