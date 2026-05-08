@@ -1,5 +1,7 @@
-# If-Else Conditional Statements - Practice Questions
-# 1. Positive, Negative, or Zero 
+# 1. If-Else Conditional Statements - Practice Questions
+
+
+# 1.1 Positive, Negative, or Zero
 
 # i = int (input ("Enter a Number :"))
 # if i > 0:
@@ -13,7 +15,7 @@
 
 
 
-# 2. Voting Eligibility
+# 1.2 Voting Eligibility
 
 # age = int(input("Enter Your Age: "))
 
@@ -25,7 +27,7 @@
 
 
 
-# 3. Even or Odd
+# 1.3 Even or Odd
 
 # num= int (input("Enter a number: "))
 # if num %2 == 0:
